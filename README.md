@@ -11,8 +11,8 @@ LTP(Long-term potentiation) 현상의 시뮬레이션
 * 2020
 
 ## Directories & Files
+* background: 이미지, 소리, 폰트 등
 * document: 개발 관련 문서
 * source_code: 프로그램 소스코드
   * main.py: 메인 기능(LTP 시뮬레이션, 뉴런 수정 등) 구현
   * login.py: 로그인 기능 구현
-* background: 이미지, 소리, 폰트 등
