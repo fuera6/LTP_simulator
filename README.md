@@ -10,6 +10,10 @@ LTP(Long-term potentiation) 현상의 시뮬레이션
 ## Time
 * 2020
 
+## Prerequisite
+* pygame
+* sqlite3
+
 ## Directories & Files
 * background: 이미지, 소리, 폰트 등
 * document: 개발 관련 문서
